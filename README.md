@@ -26,7 +26,7 @@ Before setting up the application, ensure you have the following installed:
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/Vipul-Vermaa/FAQs
+git clone https://github.com/tarushi0106/FAQs
 cd FAQs
 ```
 2. Install Dependencies:
